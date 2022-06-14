@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6D387000-F7BB-5129-015C-3DD99E1BDC07}</ProjectGuid>
+    <ProjectGuid>{FD2865D6-AF72-3C41-3C94-EE2D6D02F703}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,9 +56,9 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Player\Player1.cs" />
     <Compile Include="Assets\Test.cs" />
     <Compile Include="Assets\Player\Player.cs" />
-    <Compile Include="Assets\Player\Player1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Player\SD Unity-Chan Haon Custom\Shader\Unity-chan Toon Shader Ver 2.0.6\Toon_DoubleShadeWithFeather_Mobile_TransClipping_StencilMask.shader" />
